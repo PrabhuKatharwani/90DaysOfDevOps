@@ -54,10 +54,10 @@ When a client sends a request to a server, the port number tells the operating s
 
 ---
 
-# 1. HTTP (HyperText Transfer Protocol)
+1. HTTP (HyperText Transfer Protocol)
 
-## Port
-```text id="3t26ea"
+port 
+
 80
 
 
@@ -78,8 +78,12 @@ Used for web applications
 API communication
 Health checks in monitoring systems
 Internal application traffic
-2. HTTPS (HyperText Transfer Protocol Secure)
-Port
+
+---
+
+# 1. HTTP (HyperText Transfer Protocol)
+
+## Port
 443
 Purpose
 
